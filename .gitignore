@@ -1,0 +1,17 @@
+# Ignore Composer dependencies
+/vendor
+
+# Node modules
+/node_modules
+
+# Environment file
+.env
+
+# Storage
+/storage/*.key
+/public/storage
+
+# IDE/OS files
+.DS_Store
+.idea
+.vscode
